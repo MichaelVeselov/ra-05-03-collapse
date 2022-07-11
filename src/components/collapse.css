@@ -1,0 +1,7 @@
+.collapsed .content {
+  display: none;
+}
+
+.expanded .content {
+  display: block;
+}
